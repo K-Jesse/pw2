@@ -7,14 +7,14 @@ Tämä raportti on Tero Karvisen ohjaaman [Python Web Service From Idea to Produ
 Ajatuksenani oli tehdä projekti jolla voidaan listata eri viinejä.
 
 Aloitetaan käynnistämällä virtualenv `source env/bin/activate` ja luomalla uusi projekti komennolla. `django-admin startproject wineshop`  Tehdään myös migraatiot, että saadaan valmis admin-paneeli meidän weppisivulle. `./manage.py makemigrations` `./manage.py migrate`
-![image1](/pw2/pics/alkupw2.jpg)
+![image](/pw2/pics/alkupw2.jpg)
 Luodaan vielä superuser, että pääsemme käsiksi juuri luotuun paneeliin. `./manage.py createsuperuser` ja lisäksi luodaan uusi taulu meidän tietokantaan. `./manage.py startapp winelist` `micro wineshop/settings.py`
-![image2](/pw2/pics/sudojaapp.jpg)
-![image3](/pw2/pics/settingswine.jpg)
+![image](/pw2/pics/sudojaapp.jpg)
+![image](/pw2/pics/settingswine.jpg)
 Luodaan meille uusi viini olio, ajetaan migraatiot ja katsotaan tilanteen toimivuus (jonka olisi pitänyt tehdä aikaisemmin jo mutta unohtui).
-![image4](/pw2/pics/models.jpg)
-![image5](/pw2/pics/run.jpg)
-![image6](/pw2/pics/toimiisivu.jpg)
+![image](/pw2/pics/models.jpg)
+![image](/pw2/pics/run.jpg)
+![image](/pw2/pics/test.png)
 
 
 
