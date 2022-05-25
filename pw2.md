@@ -28,7 +28,7 @@ Seuraavaksi kasaillaan listaus siten, että kirjautumista ei vaadita. En ole var
 ![Image](pics/objectlist.jpg)
 
 Lopuksi vielä kokeillaan listaako tämä, minun aikaisemmin lisäämäni viinit.
-![Image](pics/tomii_final.jpg)
+![Image](pics/toimii_final.jpg)
 
 Tätä voisi vielä hienosäätä siten, että näkyisi vielä viinien muut tiedot ja ne tulisi nätimmin esille. Osaaminen ja aika ei vain nyt anna periksi.
 
