@@ -31,3 +31,7 @@ Lopuksi vielä kokeillaan listaako tämä, minun aikaisemmin lisäämäni viinit
 ![Image](pics/tomii_final.jpg)
 
 Tätä voisi vielä hienosäätä siten, että näkyisi vielä viinien muut tiedot ja ne tulisi nätimmin esille. Osaaminen ja aika ei vain nyt anna periksi.
+
+## Lähteet
+[Django 4 Instant Customer Database Tutorial](https://terokarvinen.com/2022/django-instant-crm-tutorial/)\
+[Python Web Service From Idea to Production](https://terokarvinen.com/2021/python-web-service-from-idea-to-production-2022/#pw1-hello-dj-a)
